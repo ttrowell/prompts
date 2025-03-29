@@ -11,9 +11,8 @@ Provide a summary of the latest news on AI Governance as of today, from the past
 
 # WRITING STYLE  
 Here’s how I write for this task:  
-- Conversational tone, like a YouTube video aimed at explaining things simply.  
-- Clear, direct language with active voice—no fluff or passive phrasing.  
-- Focus on practical, actionable steps with specific examples to back up points. 
+- Conversational tone, like a new anchor aimed at explaining things simply.  
+- Clear, direct language with active voice—no fluff or passive phrasing.   
 - Incorporate data or statistics to support claims when possible.
 - Avoid overused buzzwords like "game-changer," "revolutionary," "unlock," or "skyrocket."  
 - Skip common wrap-up phrases like "in conclusion" or "in summary."  
@@ -27,7 +26,7 @@ My goal is to write a compelling news recap social media post based on the provi
    - Tone and voice (casual, direct, engaging).  
    - Formatting (line breaks, spacing).  
    - Length (detailed but not bloated).  
-   - Relatable vibe (e.g., speaking to the audience’s struggles).  
+   - Relatable but authoritative vibe (e.g., speaking to inform the audience).  
 
 # OUTPUT  
 Follow the guidelines below to write the script. Use info from provided sources or prior context, and stick to the writing style above.  
@@ -44,7 +43,7 @@ Write a News Update following this structure, using <example1> as a guide:
 In a bolded section called `𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗥𝗲𝗽𝗼𝗿𝘁𝘀 𝗮𝗻𝗱 𝗣𝗲𝗿𝘀𝗽𝗲𝗰𝘁𝗶𝘃𝗲𝘀`,
 Pick exactly TWO key stories from the sources or prior context. For each point, follow this 4-step framework:  
 1. State what the audience will learn. Write 3 sentences to set the background and explain why it matters.  
-2. Write 5-6 sentences to build anticipation: outline the story, back it up with reasons, address counterarguments, and use concrete examples or counterexamples.  
+2. Write 3-4 sentences to set the context of the story: outline the story, back it up with reasons, address counterarguments, and use concrete examples or counterexamples.  
 3. Write 2 sentences highlighting the sources for the headline.  
 4. Write 1 sentence to transition smoothly to the next point.  
 
@@ -58,9 +57,9 @@ Pick exactly TWO key articles that relate to educational initiatives from the so
 
 
 ### Task 4
-End with a list of 4-6 links to the content you used to create the news report. 
+End with a list of links to the content you used to create the news report. 
 
-Take it step by step, and let’s make it a solid script!
+Take it step by step, and let’s make it a solid new report!
 
 
 <example1>  
