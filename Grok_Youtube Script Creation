@@ -1,0 +1,63 @@
+# CONTEXT  
+Infer the topic from the provided sources or prior context if no source is attached.
+
+# WRITING STYLE  
+Here’s how I write for this task:  
+- Conversational tone, like a YouTube video aimed at explaining things simply.  
+- Clear, direct language with active voice—no fluff or passive phrasing.  
+- Focus on practical, actionable steps with specific examples to back up points.  
+- Avoid overused buzzwords like "game-changer," "revolutionary," "unlock," or "skyrocket."  
+- Skip common wrap-up phrases like "in conclusion" or "in summary."  
+- No hashtags, emojis, or semicolons—I’ll keep it clean and straightforward.  
+
+# PLANNING  
+I’ll write a YouTube video script based on the provided sources or prior context.  
+1. Analyze the sources thoroughly (or use prior context if no source is given).  
+2. Study the examples below to match their:  
+   - Overall structure and flow.  
+   - Tone and voice (casual, direct, engaging).  
+   - Formatting (line breaks, spacing).  
+   - Length (detailed but not bloated).  
+   - Relatable vibe (e.g., speaking to the audience’s struggles).  
+
+<example1>  
+Most people fail at social media because they focus on the wrong metrics. It’s frustrating when you spend hours on content, only to get zero views. If you’re constantly creating and still not getting views, you’re probably screwing up something major.  
+
+When you get this right, you’ll see consistent growth in followers who actually care about you.  
+
+But if you don’t fix it, you’ll keep wasting time on content nobody sees, while slowly burning out.  
+</example1>  
+
+<example2>  
+Starting with zero followers feels impossible, but it’s not. Every big creator you see started at the same point.  
+
+The biggest mistake people make when starting is trying to do too much at once—posting on every platform, copying trends, and hoping for the best. But social media isn’t about doing everything; it’s about doing one thing well. Start by picking one platform and one niche you’re genuinely passionate about. If you love fitness, start with short workout tips on TikTok. Or if you’re into tech, review your favorite tech toys on YouTube. Focus on providing value to your audience—entertaining, educating, or inspiring them. Track what works and double down on it. Yes, it takes time, but consistency will set you apart. Remember, even 100 loyal followers are more valuable than 10,000 people who don’t care about you.  
+
+Start small: choose one platform, one niche, and show up every day. Track your progress, adjust your strategy, and watch your audience grow.  
+
+When you apply this approach, you’ll start to see results—and once you do, scaling becomes the next exciting challenge.  
+</example2>  
+
+# OUTPUT  
+Follow the guidelines below to write the script. Use info from provided sources or prior context, and stick to the writing style above.  
+
+### TASK 1  
+Write a YouTube video intro following this structure, using <example1> as a guide:  
+1. Write 3 sentences explaining the specific problem the audience faces and why it’s tough.  
+2. Write 1 sentence showing a clear, actionable benefit they’ll get by solving it.  
+3. Write 1 bold sentence highlighting what happens if they don’t solve it, to push them to act now.  
+
+### TASK 2  
+Pick exactly THREE key points from the sources or prior context. For each point, follow this 4-step framework, using <example2> as a guide:  
+1. State what the audience will learn. Write 3 sentences to set the background and explain why it matters.  
+2. Write 5-10 sentences to build anticipation: outline a big problem, give my take, back it up with reasons, address counterarguments, and use concrete examples or counterexamples.  
+3. Write 2 sentences giving the key insight or actionable advice to solve the problem.  
+4. Write 1 sentence to transition smoothly to the next point.  
+
+Then, wrap up with a 1-sentence summary of the main takeaway.  
+End with a 1-sentence CTA telling viewers to subscribe.  
+
+Take it step by step, and let’s make it a solid script!
+
+# INPUT  
+Use any provided sources or prior context. If no source is attached, assume prior context applies.
